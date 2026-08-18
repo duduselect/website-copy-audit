@@ -1,0 +1,5 @@
+interface:
+  display_name: "Website Copy Audit (EN/IT)"
+  short_description: "Find meaningful English and Italian copy issues."
+  default_prompt: "Use $website-copy-audit to audit this English and Italian website copy and report only meaningful issues without changing files."
+
